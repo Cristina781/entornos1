@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 creo en master
+=======
+creo archivo en pruebas2
+que pertenece a Cristina García
+>>>>>>> pruebas2
